@@ -2,6 +2,7 @@
   "name": "GAD Apps",
   "identifier": "com.gad.sidestore",
   "sourceURL": "https://guilhermealves-dev.github.io/altstore-apps/apps.json",
+  "iconURL": "https://raw.githubusercontent.com/guilhermealves-dev/altstore-apps/main/icons/Source.png",
   "apps": [
     {
       "name": "Spy Video Recorder",
