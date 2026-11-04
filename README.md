@@ -1,12 +1,12 @@
-# GAD Apps - Fonte para AltStore & SideStore 📱
+# GAD Apps - Fonte privada de aplicativos IOS 📱
 
-Repositório público de distribuição dos meus aplicativos para iOS via **SideStore** e **AltStore**.
+Repositório de distribuição dos meus aplicativos para iOS via **SideStore**.
 
 ---
 
 ## 🚀 Como adicionar a Fonte no iPhone
 
-1. No seu iPhone, abra o **SideStore** (ou **AltStore**).
+1. No seu iPhone, abra o **SideStore**.
 2. Vá até a aba **Sources** (Fontes) e toque no botão **`+`** no canto superior.
 3. Cole a seguinte URL:
    ```text
