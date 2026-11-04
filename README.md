@@ -22,3 +22,8 @@ Repositório de distribuição dos meus aplicativos para iOS via **SideStore**.
 * **Versão**: 1.0.0
 * **Compatibilidade**: iOS 16.0+
 * **Descrição**: Gravador de vídeo discreto com tela preta pura (OLED Pitch Black), delay de 3 segundos com 3 pulsos de vibração física, parada imediata com vibração longa, suporte a botões de volume físicos, câmera frontal e traseira, e cofre criptografado com Face ID.
+
+### 🔴 YTPlus
+* **Versão**: 21.13.6 (YTLite v5.2b4)
+* **Compatibilidade**: iOS 16.0+
+* **Descrição**: YouTube oficial com tweak YouTube Plus (YTLite v5.2b4). Bloqueio completo de anúncios e banners, reprodução em segundo plano (background playback), Picture-in-Picture nativo (YouPiP), retorno do contador de dislikes (Return YouTube Dislike), suporte a resolução 4K (YTUHD & YouQuality) e correção de proporção sem cortes de tela (DontEatMyContent).

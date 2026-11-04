@@ -16,6 +16,20 @@
       "tintColor": "E62436",
       "size": 314920,
       "screenshotURLs": []
+    },
+    {
+      "name": "YTPlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "GAD Apps",
+      "version": "21.13.6",
+      "versionDate": "2026-11-04T00:30:00Z",
+      "versionDescription": "Versão oficial 21.13.6 potencializada com o tweak YouTube Plus (YTLite v5.2b4). Inclui remoção total de anúncios de vídeo e banners, reprodução em segundo plano (background playback), Picture-in-Picture nativo (YouPiP), retorno do contador de dislikes (Return YouTube Dislike), suporte a resolução até 4K (YTUHD), seletor de qualidade avançado (YouQuality) e sem cortes na Dynamic Island (DontEatMyContent).",
+      "downloadURL": "https://github.com/guilhermealves-dev/altstore-apps/releases/download/v21.13.6-ytplus/YTPlus.ipa",
+      "localizedDescription": "Aplicativo oficial do YouTube potencializado com o tweak YouTube Plus (YTLite v5.2b4). Conta com remoção completa de anúncios de vídeo e banners, reprodução em segundo plano com a tela desligada, Picture-in-Picture nativo (YouPiP), retorno do contador de dislikes (Return YouTube Dislike), suporte a resolução até 4K (YTUHD), seletor avançado de qualidade (YouQuality) e compatibilidade com tela cheia sem cortes de entalhe/Dynamic Island (DontEatMyContent).",
+      "iconURL": "https://raw.githubusercontent.com/guilhermealves-dev/altstore-apps/main/icons/YTPlus.png",
+      "tintColor": "FF0033",
+      "size": 126776343,
+      "screenshotURLs": []
     }
   ],
   "news": []
