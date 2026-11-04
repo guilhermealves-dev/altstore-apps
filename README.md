@@ -1,4 +1,4 @@
-# Guilherme's Apps - Fonte para AltStore & SideStore 📱
+# GAD Apps - Fonte para AltStore & SideStore 📱
 
 Repositório público de distribuição dos meus aplicativos para iOS via **SideStore** e **AltStore**.
 

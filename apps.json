@@ -1,12 +1,12 @@
 {
-  "name": "Guilherme's Apps",
-  "identifier": "com.guilhermealves.altstore",
+  "name": "GAD Apps",
+  "identifier": "com.gad.altstore",
   "sourceURL": "https://guilhermealves-dev.github.io/altstore-apps/apps.json",
   "apps": [
     {
       "name": "Spy Video Recorder",
       "bundleIdentifier": "com.guilherme.SpyVideoRecorder",
-      "developerName": "Guilherme Alves",
+      "developerName": "GAD Apps",
       "version": "1.0.0",
       "versionDate": "2026-11-04T01:00:00Z",
       "versionDescription": "Versão inicial com gravação discreta OLED True Black, delay de 3 segundos com vibrações físicas, parada imediata e cofre com Face ID.",
