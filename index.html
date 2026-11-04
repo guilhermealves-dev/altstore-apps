@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guilherme's Apps - AltStore & SideStore Source</title>
+  <style>
+    :root {
+      --bg: #0d0e12;
+      --card: #16181f;
+      --border: #262938;
+      --text: #f0f2f8;
+      --subtext: #8e95ab;
+      --accent: #e62436;
+      --accent-hover: #ff3347;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    body { background: var(--bg); color: var(--text); padding: 40px 20px; display: flex; justify-content: center; min-height: 100vh; }
+    .container { max-width: 600px; width: 100%; }
+    .header { text-align: center; margin-bottom: 32px; }
+    .header h1 { font-size: 28px; font-weight: 700; margin-bottom: 8px; }
+    .header p { color: var(--subtext); font-size: 15px; }
+    
+    .source-box {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 28px;
+      text-align: center;
+    }
+    .source-box h3 { font-size: 16px; margin-bottom: 12px; }
+    .source-url {
+      background: #090a0d;
+      padding: 12px;
+      border-radius: 8px;
+      font-size: 13px;
+      color: #38bdf8;
+      word-break: break-all;
+      user-select: all;
+      border: 1px dashed var(--border);
+      margin-bottom: 16px;
+    }
+    .btn-group { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 18px;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .btn-primary { background: var(--accent); color: white; }
+    .btn-primary:hover { background: var(--accent-hover); }
+    .btn-secondary { background: #222634; color: var(--text); }
+    .btn-secondary:hover { background: #2d3345; }
+
+    .section-title { font-size: 20px; font-weight: 700; margin-bottom: 16px; }
+    .app-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 18px;
+      display: flex;
+      gap: 16px;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+    .app-icon { width: 72px; height: 72px; border-radius: 16px; border: 1px solid var(--border); flex-shrink: 0; }
+    .app-info { flex: 1; }
+    .app-name { font-size: 18px; font-weight: 600; margin-bottom: 4px; }
+    .app-desc { font-size: 13px; color: var(--subtext); line-height: 1.4; margin-bottom: 8px; }
+    .app-meta { font-size: 12px; color: #64748b; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Guilherme's Apps</h1>
+      <p>Fonte comunitária para AltStore e SideStore</p>
+    </div>
+
+    <div class="source-box">
+      <h3>Adicionar ao seu iPhone</h3>
+      <div class="source-url">https://guilhermealves-dev.github.io/altstore-apps/apps.json</div>
+      <div class="btn-group">
+        <a class="btn btn-primary" href="sidestore://source?url=https://guilhermealves-dev.github.io/altstore-apps/apps.json">Adicionar ao SideStore</a>
+        <a class="btn btn-secondary" href="altstore://source?url=https://guilhermealves-dev.github.io/altstore-apps/apps.json">Adicionar ao AltStore</a>
+      </div>
+    </div>
+
+    <h2 class="section-title">Aplicativos Disponíveis</h2>
+
+    <div class="app-card">
+      <img src="icons/SpyVideoRecorder.png" alt="Spy Video Recorder" class="app-icon">
+      <div class="app-info">
+        <div class="app-name">Spy Video Recorder</div>
+        <div class="app-desc">Grave vídeos discretamente com tela preta OLED (#000000), vibrações físicas na contagem regressiva, botões de volume e cofre seguro com Face ID.</div>
+        <div class="app-meta">v1.0.0 • 314 KB • iOS 16.0+</div>
+      </div>
+      <div>
+        <a class="btn btn-secondary" href="https://github.com/guilhermealves-dev/altstore-apps/releases/download/v1.0.0/SpyVideoRecorder.ipa">Baixar .IPA</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

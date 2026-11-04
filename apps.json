@@ -1,0 +1,22 @@
+{
+  "name": "Guilherme's Apps",
+  "identifier": "com.guilhermealves.altstore",
+  "sourceURL": "https://guilhermealves-dev.github.io/altstore-apps/apps.json",
+  "apps": [
+    {
+      "name": "Spy Video Recorder",
+      "bundleIdentifier": "com.guilherme.SpyVideoRecorder",
+      "developerName": "Guilherme Alves",
+      "version": "1.0.0",
+      "versionDate": "2026-11-04T01:00:00Z",
+      "versionDescription": "Versão inicial com gravação discreta OLED True Black, delay de 3 segundos com vibrações físicas, parada imediata e cofre com Face ID.",
+      "downloadURL": "https://github.com/guilhermealves-dev/altstore-apps/releases/download/v1.0.0/SpyVideoRecorder.ipa",
+      "localizedDescription": "Grave vídeos de forma totalmente discreta com tela preta desligada (OLED Pitch Black). Suporta botões de volume físicos, confirmação tátil no bolso, câmera frontal e traseira, estabilização e cofre seguro com Face ID.",
+      "iconURL": "https://raw.githubusercontent.com/guilhermealves-dev/altstore-apps/main/icons/SpyVideoRecorder.png",
+      "tintColor": "E62436",
+      "size": 314920,
+      "screenshotURLs": []
+    }
+  ],
+  "news": []
+}
