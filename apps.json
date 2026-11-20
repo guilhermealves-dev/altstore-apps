@@ -5,6 +5,20 @@
   "iconURL": "https://raw.githubusercontent.com/guilhermealves-dev/altstore-apps/main/icons/Source.png",
   "apps": [
     {
+      "name": "MedMinder",
+      "bundleIdentifier": "com.guilherme.MedMinder",
+      "developerName": "GAD Apps",
+      "version": "1.0.0",
+      "versionDate": "2026-11-20T18:00:00Z",
+      "versionDescription": "Versão inicial: linha do tempo Today organizada por turnos (Manhã, Tarde, Noite, Madrugada), personalização visual de remédios com formas e cores, armário de comprimidos (Cabinet) com alerta automático de estoque baixo e relatórios de adesão ao tratamento.",
+      "downloadURL": "https://github.com/guilhermealves-dev/altstore-apps/releases/download/v1.0.0-medminder/MedMinder.ipa",
+      "localizedDescription": "Lembrete e organizador inteligente de medicamentos para iOS. Acompanhe horários diários, registre doses tomadas, adiadas ou puladas, controle o estoque do seu armário com avisos de reposição e acompanhe seu histórico com total privacidade offline.",
+      "iconURL": "https://raw.githubusercontent.com/guilhermealves-dev/altstore-apps/main/icons/MedMinder.png",
+      "tintColor": "1294F2",
+      "size": 3600799,
+      "screenshotURLs": []
+    },
+    {
       "name": "Spy Video Recorder",
       "bundleIdentifier": "com.guilherme.SpyVideoRecorder",
       "developerName": "GAD Apps",
