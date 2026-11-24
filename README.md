@@ -19,7 +19,7 @@ Repositório de distribuição dos meus aplicativos para iOS via **SideStore**.
 ## 📦 Aplicativos no Catálogo
 
 ### 💊 MedMinder
-* **Versão**: 1.0.4
+* **Versão**: 1.0.5
 * **Compatibilidade**: iOS 16.0+
 * **Descrição**: Lembrete e rastreador inteligente de medicamentos em Português (pt-BR). Linha do tempo visual Today (Manhã, Tarde, Noite, Madrugada), personalização visual com formas e cores de pílulas, controle de armário com aviso de estoque baixo e taxa de adesão ao tratamento 100% offline.
 
